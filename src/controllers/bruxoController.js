@@ -1,3 +1,4 @@
+
 // Importar o Model
 
 import * as BruxoModel from '../models/bruxoModel.js'
